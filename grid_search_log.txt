@@ -1,0 +1,211 @@
+
+============================================================
+Grid Search Started at: 2026-05-23 01:01:14
+============================================================
+
+============================================================
+Grid Search Started at: 2026-05-23 01:01:19
+============================================================
+
+============================================================
+Grid Search Started at: 2026-05-23 01:01:24
+============================================================
+[ERROR] Dataset: CCV | cat=0.05, inst=0.05, con=0.1 | Failed to run.
+[ERROR] Dataset: CCV | cat=0.05, inst=0.05, con=0.5 | Failed to run.
+[ERROR] Dataset: CCV | cat=0.05, inst=0.05, con=0.7 | Failed to run.
+[ERROR] Dataset: CCV | cat=0.05, inst=0.05, con=1.0 | Failed to run.
+[ERROR] Dataset: CCV | cat=0.05, inst=0.5, con=0.1 | Failed to run.
+[ERROR] Dataset: CCV | cat=0.05, inst=0.5, con=0.5 | Failed to run.
+[ERROR] Dataset: CCV | cat=0.05, inst=0.5, con=0.7 | Failed to run.
+[ERROR] Dataset: CCV | cat=0.05, inst=0.5, con=1.0 | Failed to run.
+[ERROR] Dataset: CCV | cat=0.05, inst=1.0, con=0.1 | Failed to run.
+[ERROR] Dataset: CCV | cat=0.05, inst=1.0, con=0.5 | Failed to run.
+[ERROR] Dataset: CCV | cat=0.05, inst=1.0, con=0.7 | Failed to run.
+
+============================================================
+Grid Search Started at: 2026-05-23 01:02:01
+============================================================
+[ERROR] Dataset: CCV | cat=0.05, inst=0.05, con=0.1 | Failed to run.
+Reason: usage: train.py [-h] [--dataset DATASET] [--batch_size BATCH_SIZE]
+                [--temperature_f TEMPERATURE_F]
+                [--learning_rate LEARNING_RATE] [--weight_decay WEIGHT_DECAY]
+                [--workers WORKERS] [--rec_epochs REC_EPOCHS]
+                [--fine_tune_epochs FINE_TUNE_EPOCHS]
+                [--low_feature_dim LOW_FEATURE_DIM]
+                [--high_feature_dim HIGH_FEATURE_DIM]
+train.py: error: unrecognized arguments: --lambda_cat 0.05 --lambda_inst 0.05 --lambda_con 0.1
+
+[ERROR] Dataset: CCV | cat=0.05, inst=0.05, con=0.5 | Failed to run.
+Reason: usage: train.py [-h] [--dataset DATASET] [--batch_size BATCH_SIZE]
+                [--temperature_f TEMPERATURE_F]
+                [--learning_rate LEARNING_RATE] [--weight_decay WEIGHT_DECAY]
+                [--workers WORKERS] [--rec_epochs REC_EPOCHS]
+                [--fine_tune_epochs FINE_TUNE_EPOCHS]
+                [--low_feature_dim LOW_FEATURE_DIM]
+                [--high_feature_dim HIGH_FEATURE_DIM]
+train.py: error: unrecognized arguments: --lambda_cat 0.05 --lambda_inst 0.05 --lambda_con 0.5
+
+[ERROR] Dataset: CCV | cat=0.05, inst=0.05, con=0.7 | Failed to run.
+Reason: usage: train.py [-h] [--dataset DATASET] [--batch_size BATCH_SIZE]
+                [--temperature_f TEMPERATURE_F]
+                [--learning_rate LEARNING_RATE] [--weight_decay WEIGHT_DECAY]
+                [--workers WORKERS] [--rec_epochs REC_EPOCHS]
+                [--fine_tune_epochs FINE_TUNE_EPOCHS]
+                [--low_feature_dim LOW_FEATURE_DIM]
+                [--high_feature_dim HIGH_FEATURE_DIM]
+train.py: error: unrecognized arguments: --lambda_cat 0.05 --lambda_inst 0.05 --lambda_con 0.7
+
+[ERROR] Dataset: CCV | cat=0.05, inst=0.05, con=1.0 | Failed to run.
+Reason: usage: train.py [-h] [--dataset DATASET] [--batch_size BATCH_SIZE]
+                [--temperature_f TEMPERATURE_F]
+                [--learning_rate LEARNING_RATE] [--weight_decay WEIGHT_DECAY]
+                [--workers WORKERS] [--rec_epochs REC_EPOCHS]
+                [--fine_tune_epochs FINE_TUNE_EPOCHS]
+                [--low_feature_dim LOW_FEATURE_DIM]
+                [--high_feature_dim HIGH_FEATURE_DIM]
+train.py: error: unrecognized arguments: --lambda_cat 0.05 --lambda_inst 0.05 --lambda_con 1.0
+
+[ERROR] Dataset: CCV | cat=0.05, inst=0.5, con=0.1 | Failed to run.
+Reason: usage: train.py [-h] [--dataset DATASET] [--batch_size BATCH_SIZE]
+                [--temperature_f TEMPERATURE_F]
+                [--learning_rate LEARNING_RATE] [--weight_decay WEIGHT_DECAY]
+                [--workers WORKERS] [--rec_epochs REC_EPOCHS]
+                [--fine_tune_epochs FINE_TUNE_EPOCHS]
+                [--low_feature_dim LOW_FEATURE_DIM]
+                [--high_feature_dim HIGH_FEATURE_DIM]
+train.py: error: unrecognized arguments: --lambda_cat 0.05 --lambda_inst 0.5 --lambda_con 0.1
+
+[ERROR] Dataset: CCV | cat=0.05, inst=0.5, con=0.5 | Failed to run.
+Reason: usage: train.py [-h] [--dataset DATASET] [--batch_size BATCH_SIZE]
+                [--temperature_f TEMPERATURE_F]
+                [--learning_rate LEARNING_RATE] [--weight_decay WEIGHT_DECAY]
+                [--workers WORKERS] [--rec_epochs REC_EPOCHS]
+                [--fine_tune_epochs FINE_TUNE_EPOCHS]
+                [--low_feature_dim LOW_FEATURE_DIM]
+                [--high_feature_dim HIGH_FEATURE_DIM]
+train.py: error: unrecognized arguments: --lambda_cat 0.05 --lambda_inst 0.5 --lambda_con 0.5
+
+[ERROR] Dataset: CCV | cat=0.05, inst=0.5, con=0.7 | Failed to run.
+Reason: usage: train.py [-h] [--dataset DATASET] [--batch_size BATCH_SIZE]
+                [--temperature_f TEMPERATURE_F]
+                [--learning_rate LEARNING_RATE] [--weight_decay WEIGHT_DECAY]
+                [--workers WORKERS] [--rec_epochs REC_EPOCHS]
+                [--fine_tune_epochs FINE_TUNE_EPOCHS]
+                [--low_feature_dim LOW_FEATURE_DIM]
+                [--high_feature_dim HIGH_FEATURE_DIM]
+train.py: error: unrecognized arguments: --lambda_cat 0.05 --lambda_inst 0.5 --lambda_con 0.7
+
+[ERROR] Dataset: CCV | cat=0.05, inst=0.5, con=1.0 | Failed to run.
+Reason: usage: train.py [-h] [--dataset DATASET] [--batch_size BATCH_SIZE]
+                [--temperature_f TEMPERATURE_F]
+                [--learning_rate LEARNING_RATE] [--weight_decay WEIGHT_DECAY]
+                [--workers WORKERS] [--rec_epochs REC_EPOCHS]
+                [--fine_tune_epochs FINE_TUNE_EPOCHS]
+                [--low_feature_dim LOW_FEATURE_DIM]
+                [--high_feature_dim HIGH_FEATURE_DIM]
+train.py: error: unrecognized arguments: --lambda_cat 0.05 --lambda_inst 0.5 --lambda_con 1.0
+
+[ERROR] Dataset: CCV | cat=0.05, inst=1.0, con=0.1 | Failed to run.
+Reason: usage: train.py [-h] [--dataset DATASET] [--batch_size BATCH_SIZE]
+                [--temperature_f TEMPERATURE_F]
+                [--learning_rate LEARNING_RATE] [--weight_decay WEIGHT_DECAY]
+                [--workers WORKERS] [--rec_epochs REC_EPOCHS]
+                [--fine_tune_epochs FINE_TUNE_EPOCHS]
+                [--low_feature_dim LOW_FEATURE_DIM]
+                [--high_feature_dim HIGH_FEATURE_DIM]
+train.py: error: unrecognized arguments: --lambda_cat 0.05 --lambda_inst 1.0 --lambda_con 0.1
+
+[ERROR] Dataset: CCV | cat=0.05, inst=1.0, con=0.5 | Failed to run.
+Reason: usage: train.py [-h] [--dataset DATASET] [--batch_size BATCH_SIZE]
+                [--temperature_f TEMPERATURE_F]
+                [--learning_rate LEARNING_RATE] [--weight_decay WEIGHT_DECAY]
+                [--workers WORKERS] [--rec_epochs REC_EPOCHS]
+                [--fine_tune_epochs FINE_TUNE_EPOCHS]
+                [--low_feature_dim LOW_FEATURE_DIM]
+                [--high_feature_dim HIGH_FEATURE_DIM]
+train.py: error: unrecognized arguments: --lambda_cat 0.05 --lambda_inst 1.0 --lambda_con 0.5
+
+[ERROR] Dataset: CCV | cat=0.05, inst=1.0, con=0.7 | Failed to run.
+Reason: usage: train.py [-h] [--dataset DATASET] [--batch_size BATCH_SIZE]
+                [--temperature_f TEMPERATURE_F]
+                [--learning_rate LEARNING_RATE] [--weight_decay WEIGHT_DECAY]
+                [--workers WORKERS] [--rec_epochs REC_EPOCHS]
+                [--fine_tune_epochs FINE_TUNE_EPOCHS]
+                [--low_feature_dim LOW_FEATURE_DIM]
+                [--high_feature_dim HIGH_FEATURE_DIM]
+train.py: error: unrecognized arguments: --lambda_cat 0.05 --lambda_inst 1.0 --lambda_con 0.7
+
+[ERROR] Dataset: CCV | cat=0.05, inst=1.0, con=1.0 | Failed to run.
+Reason: usage: train.py [-h] [--dataset DATASET] [--batch_size BATCH_SIZE]
+                [--temperature_f TEMPERATURE_F]
+                [--learning_rate LEARNING_RATE] [--weight_decay WEIGHT_DECAY]
+                [--workers WORKERS] [--rec_epochs REC_EPOCHS]
+                [--fine_tune_epochs FINE_TUNE_EPOCHS]
+                [--low_feature_dim LOW_FEATURE_DIM]
+                [--high_feature_dim HIGH_FEATURE_DIM]
+train.py: error: unrecognized arguments: --lambda_cat 0.05 --lambda_inst 1.0 --lambda_con 1.0
+
+[ERROR] Dataset: CCV | cat=0.05, inst=5.0, con=0.1 | Failed to run.
+Reason: usage: train.py [-h] [--dataset DATASET] [--batch_size BATCH_SIZE]
+                [--temperature_f TEMPERATURE_F]
+                [--learning_rate LEARNING_RATE] [--weight_decay WEIGHT_DECAY]
+                [--workers WORKERS] [--rec_epochs REC_EPOCHS]
+                [--fine_tune_epochs FINE_TUNE_EPOCHS]
+                [--low_feature_dim LOW_FEATURE_DIM]
+                [--high_feature_dim HIGH_FEATURE_DIM]
+train.py: error: unrecognized arguments: --lambda_cat 0.05 --lambda_inst 5.0 --lambda_con 0.1
+
+[ERROR] Dataset: CCV | cat=0.05, inst=5.0, con=0.5 | Failed to run.
+Reason: usage: train.py [-h] [--dataset DATASET] [--batch_size BATCH_SIZE]
+                [--temperature_f TEMPERATURE_F]
+                [--learning_rate LEARNING_RATE] [--weight_decay WEIGHT_DECAY]
+                [--workers WORKERS] [--rec_epochs REC_EPOCHS]
+                [--fine_tune_epochs FINE_TUNE_EPOCHS]
+                [--low_feature_dim LOW_FEATURE_DIM]
+                [--high_feature_dim HIGH_FEATURE_DIM]
+train.py: error: unrecognized arguments: --lambda_cat 0.05 --lambda_inst 5.0 --lambda_con 0.5
+
+[ERROR] Dataset: CCV | cat=0.05, inst=5.0, con=0.7 | Failed to run.
+Reason: usage: train.py [-h] [--dataset DATASET] [--batch_size BATCH_SIZE]
+                [--temperature_f TEMPERATURE_F]
+                [--learning_rate LEARNING_RATE] [--weight_decay WEIGHT_DECAY]
+                [--workers WORKERS] [--rec_epochs REC_EPOCHS]
+                [--fine_tune_epochs FINE_TUNE_EPOCHS]
+                [--low_feature_dim LOW_FEATURE_DIM]
+                [--high_feature_dim HIGH_FEATURE_DIM]
+train.py: error: unrecognized arguments: --lambda_cat 0.05 --lambda_inst 5.0 --lambda_con 0.7
+
+[ERROR] Dataset: CCV | cat=0.05, inst=5.0, con=1.0 | Failed to run.
+Reason: usage: train.py [-h] [--dataset DATASET] [--batch_size BATCH_SIZE]
+                [--temperature_f TEMPERATURE_F]
+                [--learning_rate LEARNING_RATE] [--weight_decay WEIGHT_DECAY]
+                [--workers WORKERS] [--rec_epochs REC_EPOCHS]
+                [--fine_tune_epochs FINE_TUNE_EPOCHS]
+                [--low_feature_dim LOW_FEATURE_DIM]
+                [--high_feature_dim HIGH_FEATURE_DIM]
+train.py: error: unrecognized arguments: --lambda_cat 0.05 --lambda_inst 5.0 --lambda_con 1.0
+
+[ERROR] Dataset: CCV | cat=0.05, inst=10.0, con=0.1 | Failed to run.
+Reason: usage: train.py [-h] [--dataset DATASET] [--batch_size BATCH_SIZE]
+                [--temperature_f TEMPERATURE_F]
+                [--learning_rate LEARNING_RATE] [--weight_decay WEIGHT_DECAY]
+                [--workers WORKERS] [--rec_epochs REC_EPOCHS]
+                [--fine_tune_epochs FINE_TUNE_EPOCHS]
+                [--low_feature_dim LOW_FEATURE_DIM]
+                [--high_feature_dim HIGH_FEATURE_DIM]
+train.py: error: unrecognized arguments: --lambda_cat 0.05 --lambda_inst 10.0 --lambda_con 0.1
+
+[ERROR] Dataset: CCV | cat=0.05, inst=10.0, con=0.5 | Failed to run.
+Reason: usage: train.py [-h] [--dataset DATASET] [--batch_size BATCH_SIZE]
+                [--temperature_f TEMPERATURE_F]
+                [--learning_rate LEARNING_RATE] [--weight_decay WEIGHT_DECAY]
+                [--workers WORKERS] [--rec_epochs REC_EPOCHS]
+                [--fine_tune_epochs FINE_TUNE_EPOCHS]
+                [--low_feature_dim LOW_FEATURE_DIM]
+                [--high_feature_dim HIGH_FEATURE_DIM]
+train.py: error: unrecognized arguments: --lambda_cat 0.05 --lambda_inst 10.0 --lambda_con 0.5
+
+
+============================================================
+Grid Search Started at: 2026-05-23 01:04:37
+============================================================
